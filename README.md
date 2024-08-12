@@ -1,2 +1,8 @@
-# MicrosoftExcel
-En este proyecto se analizará la base de datos de Excel para determinar puntos clave
+# Análisis de ventas en la tienda X
+
+## Contexto
+Este conjunto de datos contiene informacipon detallada para la tienda x 
+
+
+## Objetivo
+Transformar los datos que permite ...
