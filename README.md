@@ -18,4 +18,4 @@ Transformar los datos que permite ...
 ![istockphoto-1361593297-612x612](https://github.com/user-attachments/assets/f7ed01c1-9583-439d-866a-1f6960a906dd)
 
 ## Código utilizado
-```SELECT + mine 
+```SELECT + FROM TABLE 
